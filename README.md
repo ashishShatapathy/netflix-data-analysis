@@ -1,21 +1,13 @@
-# Hi 👋 I'm Ashish Kumar Shatapathy
+# Netflix Data Analysis
 
-🎓 MCA Student | Aspiring Data Analyst  
-📍 Bengaluru, India  
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn
 
-## Skills
-- Python
-- SQL
-- Data Analysis
-- Pandas
-- Data Visualization
-- Excel
-- Git & GitHub
+## Project Description
+Performed exploratory data analysis on Netflix Movies and TV Shows dataset to identify trends in content distribution.
 
-## Projects
-🔹 Netflix Data Analysis  
-Analyzed Netflix dataset using Python and visualization libraries to discover trends in content distribution.
-
-## Connect with me
-LinkedIn: https://linkedin.com/in/ashishkumarshatapathy0007
-GitHub: https://github.com/ashishShatapathy
+## Key Insights
+- Movies dominate the Netflix catalog compared to TV shows
+- United States produces the most Netflix content
+- Content additions increased rapidly after 2016
+- International Movies and Dramas are common genres
